@@ -1,4 +1,12 @@
 import random
+"""
+hey! i'm mohammad ali aqooahani.
+this file is a project for trying python.
+this is a MINIGAME.
+describe:
+you can select 1 or 2 and cpu randomly selects one.
+If your choice is correct, your score will increase.
+"""
 import math
 
 userSelect , userScore , comScore = 0 , 0 , 0
